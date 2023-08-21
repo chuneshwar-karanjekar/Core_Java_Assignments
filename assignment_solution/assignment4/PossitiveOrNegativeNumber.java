@@ -1,4 +1,4 @@
-package assignment_4;
+package assignment4;
 
 public class PossitiveOrNegativeNumber {
 public static void main(String[] args) {

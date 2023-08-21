@@ -1,4 +1,4 @@
-package assignment_4;
+package assignment4;
 
 public class DivisibleByNumber {
 	public static void main(String[] args) {

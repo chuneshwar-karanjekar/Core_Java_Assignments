@@ -1,4 +1,4 @@
-package assignment_2;
+package assignment2;
 
 public class SwapIntWithoutUsingThirdVariable {
 public static void main(String[] args) {

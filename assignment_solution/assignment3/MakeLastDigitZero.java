@@ -1,5 +1,4 @@
-package assignment_3;
-
+package assignment3;
 public class MakeLastDigitZero {
 
 	public static void main(String[] args) {

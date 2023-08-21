@@ -1,4 +1,4 @@
-package assignment_3;
+package assignment3;
 
 public class SumOfDigit {
 	public static void main(String[] args) {

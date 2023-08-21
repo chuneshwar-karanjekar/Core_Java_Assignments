@@ -1,1 +1,1 @@
-package assignment_1;
+package assignment1;

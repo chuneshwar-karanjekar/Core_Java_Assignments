@@ -1,4 +1,4 @@
-package assignment_2;
+package assignment2;
 
 public class VariableIsValueTypeOrNullType {
 public static void main(String[] args) {

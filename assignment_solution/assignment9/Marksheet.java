@@ -1,5 +1,4 @@
-package assignment_9;
-
+package assignment9;
 public class Marksheet {
 	Integer physics;
 	Integer maths;
