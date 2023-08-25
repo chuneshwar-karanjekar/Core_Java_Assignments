@@ -1,24 +1,24 @@
 package assignment9;
-import java.util.*;
+
 public class Circle {
 	 //int radius;
-	Integer  radius ;
+	private Double radius ;
 	
-	void setRadius(int r) {
-		radius =r;
+	public void setRadius(Double r) {
+		this.radius =r;
 	}
 	void getRadius() {
 		System.out.println("Radius :"+radius);
 	}
-	void getArea() {
-		System.out.println("Area :"+3.14*(radius*radius));
+	public Double getArea() {
+		return 3.14*(radius*radius);
 	}
 	void getCircumferene() {
 		System.out.println("Circumferene :"+2*3.14*radius);
 	}
 	public static void main(String[] args) {
 		Circle c = new Circle();
-		c.setRadius(9);
+		c.setRadius(5.6);
 		c.getRadius();
 		c.getArea();
 		c.getCircumferene();

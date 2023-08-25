@@ -4,9 +4,7 @@ import java.util.Scanner;
 
 public class Program1 {
 
-    static{
-        System.out.println("This is static block");
-    }
+ 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
          System.out.println("Enter your Input :");

@@ -1,11 +1,6 @@
 package assignment9;
 public class Marksheet {
-	Integer physics;
-	Integer maths;
-	Integer chemistry;
-	Integer english;
-	Integer hindi;
-	
+	Integer physics, maths, chemistry, english, hindi;
 	
 	
 public Integer getPhysics() {

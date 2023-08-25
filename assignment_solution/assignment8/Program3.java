@@ -19,8 +19,8 @@ public class Program3 {
     }
     
     public static void main(String[] args) {
-        Program3 s3 = new Program3();
-        s3.setProperties(2304948, 1000, 390, 15, "How to make tutorials.");
-   s3.getProperties();
+        
+        Program3.setProperties(2304948, 1000, 390, 15, "How to make tutorials.");
+        Program3.getProperties();
     }
 }
