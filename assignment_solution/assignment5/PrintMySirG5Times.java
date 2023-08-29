@@ -1,9 +1,9 @@
-package assignment_5;
+package assignment5;
 
 public class PrintMySirG5Times {
-public static void main(String[] args) {
-	for(int i=0; i<5; i++) {
-		System.out.println("My SirG");
+	public static void main(String[] args) {
+		for (int i = 0; i < 5; i++) {
+			System.out.println("My SirG");
+		}
 	}
-}
 }
